@@ -1,3 +1,4 @@
-# My Awesome Book
+# 我的第一本书
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+这里只是实践一下如何使用 Gitbook 来写作。
+
